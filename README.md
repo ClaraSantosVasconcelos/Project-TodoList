@@ -1,7 +1,7 @@
 # 📋 Project To-Do List API
 
 Este é um projeto de uma API RESTful para gerenciamento de tarefas (To-Do List), desenvolvida com **Java** e **Spring Boot**. 
-O objetivo é praticar conceitos de back-end, como estrutura de projetos, camadas (Controller, Service, Repository), uso de banco de dados relacional e testes automatizados.
+O objetivo é praticar conceitos de back-end, como estrutura de projetos, camadas (Controller, Service, Repository), uso de banco de dados relacional.
 
 ## ✨ Funcionalidades
 
